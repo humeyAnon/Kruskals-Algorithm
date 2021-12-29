@@ -1,0 +1,1 @@
+Run Kruskals.java with the input.txt file and the amount of stations, stations must be 1 > x < number of hotspots
